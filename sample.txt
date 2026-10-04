@@ -1,0 +1,7 @@
+Technology has become an important part of our daily lives.
+Students use computers and mobile devices for communication and learning.
+Programming helps students develop problem solving skills.
+
+Node.js allows developers to create useful applications.
+It can read files and process information efficiently.
+Simple command line tools can help users perform different tasks.
